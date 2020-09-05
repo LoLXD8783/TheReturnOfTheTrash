@@ -1,0 +1,3 @@
+displayName = The return of the trashe
+author = Naka & Fefo
+version = 0.1
